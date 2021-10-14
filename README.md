@@ -14,10 +14,11 @@ Implementasi Instrumen Digital yang Mempercepat Proses Administrasi
 ## Scope Penelitian
 ### Face Validation Sistem
 * Contoh Input Sample
-### Face Detection Sistem
-* Contoh Input Sample
+* ![](https://github.com/NnA301023/Vaster-Apps/blob/main/static/VERIF_ORI.jpg) ![](https://github.com/NnA301023/Vaster-Apps/blob/main/static/VERIF_IMAGE.jpg)
+### Face Detection Sistem 
+* ![](https://github.com/NnA301023/Vaster-Apps/blob/main/static/SAMPLE_INPUT.jpeg)
 ### KTP - Recognition
-* Contoh Input Sample
+* ![](https://github.com/NnA301023/Vaster-Apps/blob/main/static/KTP.jpeg)
 
 # Tampilan
 ![](https://github.com/NnA301023/Vaster-Apps/blob/main/static/DISPLAY.jpeg)
