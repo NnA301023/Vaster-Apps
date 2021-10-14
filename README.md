@@ -12,6 +12,7 @@ Proses Adminitrasi Vaksinasi Covid-19 yang Lambat
 Implementasi Instrumen Digital yang Mempercepat Proses Administrasi
 
 ## Scope Penelitian
+* Link Google Collabs - Research Model : https://colab.research.google.com/drive/1-jabF5nLffHtxau9-4xz7SY83XG47tv2?usp=sharing
 ### Face Validation Sistem
 * Contoh Input Sample
 * ![](https://github.com/NnA301023/Vaster-Apps/blob/main/static/VERIF_ORI.jpg) ![](https://github.com/NnA301023/Vaster-Apps/blob/main/static/VERIF_IMAGE.jpg)
