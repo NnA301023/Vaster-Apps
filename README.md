@@ -20,5 +20,5 @@ Implementasi Instrumen Digital yang Mempercepat Proses Administrasi
 * Contoh Input Sample
 
 # Tampilan
-![]("static/DISPLAY.jpeg")
+![]("https://github.com/NnA301023/Vaster-Apps/blob/main/static/DISPLAY.jpeg")
 
